@@ -26,7 +26,7 @@ c3raw.txt.a
 4,And then,you maybe form the wordcount matrix by use this command:  
 [wordmatrix 3 50]    
 
-5,And then,you maybe form the document vector / ig vector / feature vector.it will output into the home dircectory.  
+5,And then,you maybe form the document vector / ig vector / feature vector.it will output into the home directory.  
 [dvm 3 50 10]  
 //3 means class number,50 means docs number per class.  
 
@@ -36,7 +36,12 @@ c3raw.txt.a
 
 Directory description  
 ====================================  
-
+fragment:A directory for raw document after split word.  
+frequency:A directory for every document after wordcount.  
+rawdoc:A directory for every document after cut by line.  
+include:A directory for .h file  
+lib:A directory for .a file  
+src:A directory for .cpp source file  
 
 Environment  
 ====================================   
