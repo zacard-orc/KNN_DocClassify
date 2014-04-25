@@ -1,7 +1,7 @@
 A Document Classify Tool
 ====================================
 This is based on a document classification tool KNN.  
-I put it in the complaint classification navigation WMS system CMCC Shanghai on the current.
+I put it in the complaint classification navigation WMS system CMCC Shanghai on the current.  
 For the sake of convenience,I compile it to static libfile.
 You are welcome to use it.  
 
